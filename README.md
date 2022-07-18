@@ -2,8 +2,6 @@
 <h3 align="center">I study at 42-Istanbul and BAU(Bahcesehir University) Software Engineering department since 2019. I am trying to improve myself through Bootcamps and other education programs.</h3>
 
 - 📫 How to reach me **ardatan283@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
